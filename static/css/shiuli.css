@@ -47,6 +47,10 @@ body {
   opacity: 0;
     animation: glow 1s ease-in-out infinite alternate;
   text-shadow: 0 0 10px #fff, 0 0 12px #ffd97a, 0 0 20px #ffd97a;
+    animation: begin 20s ease 1;
+      transition: all 20s ease;
+  animation-delay: 2s;
+  opacity: 0;
 }
 
 .second {
@@ -61,6 +65,9 @@ body {
   animation-delay: 20s;
     animation: glow 1s ease-in-out infinite alternate;
   text-shadow: 0 0 10px #fff, 0 0 12px #ffd97a, 0 0 20px #ffd97a;
+    animation: begin 20s ease 1;
+      transition: all 20s ease;
+  animation-delay: 20s;
 }
 
 .third {
@@ -75,6 +82,7 @@ body {
   animation-delay: 40s;
     animation: glow 1s ease-in-out infinite alternate;
   text-shadow: 0 0 10px #fff, 0 0 12px #ffd97a, 0 0 20px #ffd97a;
+    animation: begin3 20s ease 1;
 }
 
 @keyframes glow {
