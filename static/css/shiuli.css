@@ -83,6 +83,8 @@ body {
     animation: glow 1s ease-in-out infinite alternate;
   text-shadow: 0 0 10px #fff, 0 0 12px #ffd97a, 0 0 20px #ffd97a;
     animation: begin3 20s ease 1;
+      transition: all 20s ease;
+  animation-delay: 40s;
 }
 
 @keyframes glow {
