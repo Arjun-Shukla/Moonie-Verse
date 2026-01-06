@@ -9,11 +9,8 @@ html {
 }
 
 body {
-  /* background: linear-gradient(135deg, #fdfbfb, #ebedee);
-    background-color: #dbe9f4; */
   margin: 0;
   padding: 0;
-  /* height: 100vh; */
   background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -24,7 +21,7 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
-  height: 800vh;
+  height: 950vh;
   width: 70%;
   border: 2px solid black;
   background: rgba(255, 255, 255, 0.15);
@@ -35,7 +32,7 @@ body {
   left: 18rem;
   top: 1rem;
   border-radius: 2rem;
-  gap: 4rem;
+  gap: 20rem;
 }
 
 .imgcont1 {
@@ -44,7 +41,150 @@ body {
   align-items: center;
   height: 40rem;
   width: 80rem;
-  /* border: 2px solid black; */
-  margin-top: 5rem;
   border-radius: 2rem;
+}
+
+#img1{
+  height: 100%;
+  width: 60%;
+}
+
+#img2{
+  height: 100%;
+  width: 50%;
+}
+
+#img3{
+  height: 100%;
+  width: 45%;
+}
+
+#img4{
+  height: 100%;
+  width: 70%;
+}
+
+#img5{
+  height: 100%;
+  width: 60%;
+}
+
+#img6{
+  height: 100%;
+  width: 45%;
+}
+
+#img7{
+  height: 100%;
+  width: 60%;
+}
+
+#img8{
+  height: 100%;
+  width: 70%;
+}
+
+#img9{
+  height: 100%;
+  width: 90%;
+}
+
+.textarea {
+  margin-top: 2.5rem;
+  padding-left: 1.6rem;
+  max-width: 52rem;
+  border-left: 3px solid rgba(255, 255, 255, 0.35);
+  color: #e8e8e8;
+  font-family: "Playfair Display", serif;
+  font-size: 1.5rem;
+  line-height: 1.7;
+  font-weight: 500;
+}
+
+@media only screen and (min-width: 319px) and (max-width: 460px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 600vh;
+    width: 80%;
+    border: 2px solid black;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    position: absolute;
+    left: 3rem;
+    top: 1rem;
+    border-radius: 2rem;
+    gap: 30rem;
+  }
+
+  .imgcont1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 25rem;
+    width: 25rem;
+    border-radius: 1rem;
+  }
+
+  .textarea {
+    margin-top: 2rem;
+    padding-left: 1.5rem;
+    max-width: 70rem;
+    border-left: 3px solid rgba(255, 255, 255, 0.35);
+    color: #e8e8e8;
+    font-family: "Playfair Display", serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: 500;
+  }
+
+#img1{
+  height: 100%;
+  width: 80%;
+}
+
+#img2{
+  height: 100%;
+  width: 80%;
+}
+
+#img3{
+  height: 100%;
+  width: 80%;
+}
+
+#img4{
+  height: 100%;
+  width: 90%;
+}
+
+#img5{
+  height: 100%;
+  width: 90%;
+}
+
+#img6{
+  height: 100%;
+  width: 75%;
+}
+
+#img7{
+  height: 100%;
+  width: 90%;
+}
+
+#img8{
+  height: 100%;
+  width: 90%;
+}
+
+#img9{
+  height: 100%;
+  width: 100%;
+}
+
 }
