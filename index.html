@@ -9,7 +9,8 @@
 </head>
 
 <body>
-
+    <audio
+        src="media/Ricky Montgomery - Line Without A Hook  Piano Cover with Strings (with Lyrics & Sheet Music) - John Rod Dondoyano (youtube).mp3" id="introaud"></audio>
     <div id="heading">
         <h3>
             Hey Lucky One, 🌙
@@ -33,7 +34,7 @@
             <p>This page is a small garden of moments -
                 the ones that stay unspoken, yet never fade.</p>
         </div>
-        <div class="btn">
+        <div id="btn">
             <a href="moonlight.html">
                 <div id="nextbtn">
                     <span>Follow the Moonlight →</span>
@@ -41,6 +42,15 @@
             </a>
         </div>
     </div>
+<script>
+    let introaud2 = document.getElementById("introaud");
+// introaud.play();
+
+// let btn = document.getElementById("btn");
+window.addEventListener('DOMContentLoaded' , function plaf2(){
+    introaud2.play();
+});
+</script>
 </body>
 
 </html>
