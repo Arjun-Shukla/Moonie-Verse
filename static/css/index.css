@@ -166,8 +166,9 @@ body {
     border: 2px solid black;
     border-radius: 2rem;
     transition: all 0.6s ease;
-    background: linear-gradient(90deg, #4a90e2, #a8c7ff);
+  background: linear-gradient(135deg, #ff8a00, #ff5f1f);
     cursor: pointer;
+    color: white;
   }
 
   #text {
@@ -181,5 +182,6 @@ body {
     -webkit-background-clip: text;
     /* font-weight: 500; */
     text-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+    font-weight: bold;
   }
 }
