@@ -117,6 +117,19 @@ body {
 }
 
 @media (min-width: 319px) and (max-width: 480px) {
+
+body {
+  background-image: url("../../media/full-moon-8139190_1920.jpg");
+  background-repeat: no-repeat;
+  background-size: 50rem 85rem;
+  /* background-size: 150rem; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  scroll-behavior: smooth;
+}
+
+
   #heading h3 {
     width: 20%;
     left: 0.5rem;
