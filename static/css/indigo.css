@@ -107,7 +107,7 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
-    height: 645vh;
+    height: 650vh;
     width: 80%;
     border: 2px solid black;
     background: rgba(255, 255, 255, 0.15);
@@ -118,7 +118,7 @@ body {
     left: 3rem;
     top: 1rem;
     border-radius: 2rem;
-    gap: 35rem;
+    gap: 36rem;
   }
 
   .imgcont1 {
