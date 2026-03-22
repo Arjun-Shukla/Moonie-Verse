@@ -21,7 +21,7 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
-  height: 950vh;
+  height: 1610vh;
   width: 70%;
   border: 2px solid black;
   background: rgba(255, 255, 255, 0.15);
@@ -44,49 +44,74 @@ body {
   border-radius: 2rem;
 }
 
-#img1{
+#img1 {
   height: 100%;
   width: 60%;
 }
 
-#img2{
+#img2 {
   height: 100%;
   width: 50%;
 }
 
-#img3{
+#img3 {
   height: 100%;
   width: 45%;
 }
 
-#img4{
+#img4 {
   height: 100%;
   width: 70%;
 }
 
-#img5{
+#img5 {
   height: 100%;
   width: 60%;
 }
 
-#img6{
+#img6 {
   height: 100%;
   width: 45%;
 }
 
-#img7{
+#img7 {
   height: 100%;
   width: 60%;
 }
 
-#img8{
+#img8 {
   height: 100%;
   width: 70%;
 }
 
-#img9{
+#img9 {
   height: 100%;
   width: 90%;
+}
+
+#img10 {
+  height: 100%;
+  width: 70%;
+}
+
+#img11 {
+  height: 100%;
+  width: 50%;
+}
+
+#img12 {
+  height: 100%;
+  width: 30%;
+}
+
+#img13 {
+  height: 100%;
+  width: 30%;
+}
+
+#img14 {
+  height: 100%;
+  width: 70%;
 }
 
 .textarea {
@@ -107,7 +132,7 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
-    height: 650vh;
+    height: 1300vh;
     width: 80%;
     border: 2px solid black;
     background: rgba(255, 255, 255, 0.15);
@@ -142,49 +167,73 @@ body {
     font-weight: 500;
   }
 
-#img1{
-  height: 100%;
-  width: 100%;
-}
+  #img1 {
+    height: 100%;
+    width: 100%;
+  }
 
-#img2{
-  height: 100%;
-  width: 100%;
-}
+  #img2 {
+    height: 100%;
+    width: 100%;
+  }
 
-#img3{
-  height: 100%;
-  width: 100%;
-}
+  #img3 {
+    height: 100%;
+    width: 100%;
+  }
 
-#img4{
-  height: 100%;
-  width: 100%;
-}
+  #img4 {
+    height: 100%;
+    width: 100%;
+  }
 
-#img5{
-  height: 100%;
-  width: 100%;
-}
+  #img5 {
+    height: 100%;
+    width: 100%;
+  }
 
-#img6{
-  height: 100%;
-  width: 100%;
-}
+  #img6 {
+    height: 100%;
+    width: 100%;
+  }
 
-#img7{
-  height: 100%;
-  width: 100%;
-}
+  #img7 {
+    height: 100%;
+    width: 100%;
+  }
 
-#img8{
-  height: 100%;
-  width: 100%;
-}
+  #img8 {
+    height: 100%;
+    width: 100%;
+  }
 
-#img9{
-  height: 100%;
-  width: 100%;
-}
+  #img9 {
+    height: 100%;
+    width: 100%;
+  }
 
+  #img10 {
+    height: 100%;
+    width: 100%;
+  }
+
+  #img11 {
+    height: 100%;
+    width: 100%;
+  }
+
+  #img12 {
+    height: 100%;
+    width: 100%;
+  }
+
+  #img13 {
+    height: 100%;
+    width: 100%;
+  }
+
+  #img14 {
+    height: 100%;
+    width: 100%;
+  }
 }
