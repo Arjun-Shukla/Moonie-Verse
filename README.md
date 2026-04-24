@@ -2,7 +2,7 @@
 
 ### Exploring Love, Emotions & Human Connections
 
-Moonieverse is a static web platform that presents **relationship insights and love psychology** in a visually engaging and easy-to-understand format. It focuses on delivering meaningful content through a clean UI and smooth user experience.
+Moonieverse is a static web platform that presents **relationship insights and love psychology** in a visually engaging and easy-to-understand format. It focuses on delivering meaningful content through a clean UI and smooth user experiences.
 
 ---
 
